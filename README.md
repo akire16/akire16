@@ -4,7 +4,6 @@ I'm a **Front-End Developer** based in **Québec, Canada**, passionate about bui
 
 With a background in **Software Analysis and Development (SENA, Colombia)** and hands-on experience in **React, Tailwind CSS, and Vite**, I enjoy creating practical projects and continuously improving my skills.
 
----
 
 ## 🛠 Technologies & Tools
 
@@ -14,7 +13,6 @@ With a background in **Software Analysis and Development (SENA, Colombia)** and 
 - **Version Control**: Git, GitHub
 - **Other**: Adove XD, Figma (basic), Agile practices
 
----
 
 ## 🌟 Featured Projects
 
@@ -32,7 +30,6 @@ An elegant online store interface using Vite, React, and Tailwind CSS.
 A modern and responsive travel landing page created using Tailwind CSS.  
 🔗 [Live Demo](https://akire16.github.io/octopus-travel/)
 
----
 
 ## 🎯 About Me
 
@@ -41,7 +38,6 @@ A modern and responsive travel landing page created using Tailwind CSS.
 - 👶 I'm a mom of two, balancing code and motherhood with passion.
 - 🎨 I also enjoy exploring meditation, energy healing, and art in my free time.
 
----
 
 ## 📫 Let’s connect!
 
