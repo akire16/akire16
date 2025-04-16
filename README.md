@@ -44,7 +44,10 @@ A modern and responsive travel landing page created using Tailwind CSS.
 - ✉️ Email: *aketmi@gmail.com*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/erika-orj-da-silva/)  
 
----
+
 
 > _“Code is a powerful way to create, connect, and change things — I’m excited to keep growing through every project and collaboration.”_
+
+
+
 
